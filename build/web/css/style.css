@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,700i,900,900i');
+a{
+    text-decoration: none !important;
+    color:white!important;
+}
+.sidenav li>a{
+    color:black !important;
+}
+.carousel-inner > .item >img{
+    min-height : 300px;
+    max-height : 300px;
+    width : 100%;
+}
+body{
+    background: #E9ECEF;
+}
+
+.page-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background: azure;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
